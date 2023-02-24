@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 import os
-from text_summarizer.functions import summarize
+from functions import summarize
 
 
 try:
